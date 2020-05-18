@@ -1,0 +1,17 @@
+#header {
+	display: flex;
+	align-items: center;
+	margin-bottom: 2em;
+}
+
+#avatar {
+	width: 5em;
+	height: 5em;
+	margin-right: 1em;
+}
+
+.cell {
+	width: 32px;
+	height: 32px;
+	background-color: gray;
+}
